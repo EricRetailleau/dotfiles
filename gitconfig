@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eric_retailleau@yahoo.fr
+	name = Eric Retailleau
